@@ -155,18 +155,5 @@ Contributions are always welcome!
 Open an issue or submit a PR to help expand FoodSaver AI.
 
 ---
-
-## 📜 License
-
-Add a license of your choice — MIT is recommended for open collaboration.
-
 ```
 
----
-
-If you want, I can also make:
-✅ A banner/logo for FoodSaver AI  
-✅ A **short version** README  
-✅ A **professional marketing-style** README  
-Just tell me, buddy.
-```
